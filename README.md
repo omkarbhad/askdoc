@@ -2,7 +2,6 @@
 
 AskDoc is a powerful document-based question-answering application that uses Retrieval-Augmented Generation (RAG) to provide accurate answers from your documents. Built with Streamlit and powered by Ollama's language models, it allows you to upload documents and ask questions in natural language.
 
-![AskDoc Screenshot](https://via.placeholder.com/800x500.png?text=AskDoc+Screenshot)
 
 ## Features
 
